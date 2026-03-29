@@ -1,2 +1,2 @@
 # Python
-This is changed README file.
+There are some sample codes here.
